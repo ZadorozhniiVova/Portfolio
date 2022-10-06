@@ -1,1 +1,1 @@
-# test2
+ This site was created with using semantic HTML (BEM, not adaptive), SCSS, JS,jQuery, Stick Slider, Google Maps Api and jQuery validation. This site was developed by a team of 4 people, and we worked in parallel. Each had its own separate branch in Git and one repository, in which we made changes using a pull request. The project was posted on Github Pages.
